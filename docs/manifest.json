@@ -40,7 +40,7 @@
   ],
   "splash_pages": null,
   "share_target": {
-    "action": "/web-share-target",
+    "action": "/",
     "method": "POST",
     "enctype": "application/x-www-form-urlencoded",
     "params": {
