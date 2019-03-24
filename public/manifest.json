@@ -4,8 +4,8 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/web-share-target",
+  "start_url": "/web-share-target",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
@@ -40,7 +40,7 @@
   ],
   "splash_pages": null,
   "share_target": {
-    "action": "/",
+    "action": "/web-share-target",
     "method": "POST",
     "enctype": "application/x-www-form-urlencoded",
     "params": {
