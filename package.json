@@ -2,6 +2,7 @@
   "name": "share-target",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saravanan10393.github.io/web-share-target",
   "dependencies": {
     "@babel/core": "7.2.2",
     "@svgr/webpack": "4.1.0",

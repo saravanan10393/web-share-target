@@ -1,12 +1,12 @@
 {
-  "main.css": "/static/css/main.557351c9.chunk.css",
-  "main.js": "/static/js/main.4cf910a9.chunk.js",
-  "main.js.map": "/static/js/main.4cf910a9.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.b934461c.chunk.js": "/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/static/js/2.b934461c.chunk.js.map",
-  "index.html": "/index.html",
-  "static/css/main.557351c9.chunk.css.map": "/static/css/main.557351c9.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/web-share-target/static/css/main.557351c9.chunk.css",
+  "main.js": "/web-share-target/static/js/main.69511a77.chunk.js",
+  "main.js.map": "/web-share-target/static/js/main.69511a77.chunk.js.map",
+  "runtime~main.js": "/web-share-target/static/js/runtime~main.d33f4a97.js",
+  "runtime~main.js.map": "/web-share-target/static/js/runtime~main.d33f4a97.js.map",
+  "static/js/2.b934461c.chunk.js": "/web-share-target/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/web-share-target/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/web-share-target/index.html",
+  "static/css/main.557351c9.chunk.css.map": "/web-share-target/static/css/main.557351c9.chunk.css.map",
+  "static/media/logo.svg": "/web-share-target/static/media/logo.5d5d9eef.svg"
 }
